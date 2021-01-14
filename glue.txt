@@ -1,0 +1,5 @@
+Hello,
+
+This is glue for a trove.
+
+Please take with care. 
